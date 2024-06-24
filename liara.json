@@ -1,0 +1,12 @@
+{
+  "disks": [
+    {
+      "name": "uploads",
+      "mountTo": "uploads"
+    },
+{
+      "name": "extensions",
+      "mountTo": "extensions"
+    }
+  ]
+}
